@@ -1,4 +1,4 @@
-#Find rate to prchase $1M house in 36 months
+#Find rate to purchase $1M house in 36 months
 #raise is 7%, annual return 4%. dwnpymt 25%
 
 #variables
